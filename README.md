@@ -1,2 +1,2 @@
-# Parallel_and_Vectorized_Greaph_Algorithm
+# Parallel and Vectorized Greaph Algorithm
 Analysis Parallel and Vectorized Graph Algorithm on Shared Memory and Distributed System
